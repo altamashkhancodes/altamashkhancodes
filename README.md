@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Learning DSA, exploring project development, and growing into a better software engineer every day. 💻🚀
+
 <!--
 **altamashkhancodes/altamashkhancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
